@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453416917 source:c:\users\oscar garcia\skydrive\documentos\prog1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
